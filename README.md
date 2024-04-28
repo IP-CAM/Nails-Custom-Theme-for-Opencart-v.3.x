@@ -1,1 +1,1 @@
-Nails-Custom-Theme-for-Opencart-v.4.x
+Nails-Custom-Theme-for-Opencart-v.3.x
